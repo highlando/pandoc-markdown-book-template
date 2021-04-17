@@ -1,12 +1,12 @@
 ---
 title:
 - type: main
-  text: Pay Off
+  text: Livieto Madre
 creator:
 - role: author
-  text: Dan Ariely
-description: The Hidden Logic that Shapes our Motivation
-rights: Commercial
+  text: Jan Heiland
+description: Ein kleines How-To
+rights: fuer alle
 language: en-US
 stylesheet: epub.css
 cover-image: cover.jpg
