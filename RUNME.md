@@ -14,3 +14,6 @@ source arrange-rotate-pdf.sh  # rotate and arrange for booklet printing
  * can only print 8 pages
 
 print through `boomaga` to print 8 pages on a single page.
+
+Cut and fold like shown here
+![Instruction for fold and cut](https://content.instructables.com/ORIG/FR8/IIEN/IDFSI86I/FR8IIENIDFSI86I.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=bffee9e33978c34ea49f1f67a649a1d7)
