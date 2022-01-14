@@ -1,2 +1,2 @@
-pdftk lm.pdf rotate 1-endsouth output lm-rot.pdf
-pdftk A=lm.pdf B=lm-rot.pdf cat B6 B5 B4 B3 A7-9 A1 output lm-bl.pdf
+pdftk ahp.pdf rotate 1-endsouth output ahp-rot.pdf
+pdftk A=ahp.pdf B=ahp-rot.pdf cat B5 B4 B3 B2 A6-8 A1 output ahp-bl.pdf
